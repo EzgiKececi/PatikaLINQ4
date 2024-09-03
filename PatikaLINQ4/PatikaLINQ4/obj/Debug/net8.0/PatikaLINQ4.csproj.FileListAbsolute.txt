@@ -1,0 +1,14 @@
+C:\Users\Yavuz\source\repos\PatikaLINQ4\PatikaLINQ4\obj\Debug\net8.0\PatikaLINQ4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yavuz\source\repos\PatikaLINQ4\PatikaLINQ4\obj\Debug\net8.0\PatikaLINQ4.AssemblyInfoInputs.cache
+C:\Users\Yavuz\source\repos\PatikaLINQ4\PatikaLINQ4\obj\Debug\net8.0\PatikaLINQ4.AssemblyInfo.cs
+C:\Users\Yavuz\source\repos\PatikaLINQ4\PatikaLINQ4\obj\Debug\net8.0\PatikaLINQ4.csproj.CoreCompileInputs.cache
+C:\Users\Yavuz\source\repos\PatikaLINQ4\PatikaLINQ4\bin\Debug\net8.0\PatikaLINQ4.exe
+C:\Users\Yavuz\source\repos\PatikaLINQ4\PatikaLINQ4\bin\Debug\net8.0\PatikaLINQ4.deps.json
+C:\Users\Yavuz\source\repos\PatikaLINQ4\PatikaLINQ4\bin\Debug\net8.0\PatikaLINQ4.runtimeconfig.json
+C:\Users\Yavuz\source\repos\PatikaLINQ4\PatikaLINQ4\bin\Debug\net8.0\PatikaLINQ4.dll
+C:\Users\Yavuz\source\repos\PatikaLINQ4\PatikaLINQ4\bin\Debug\net8.0\PatikaLINQ4.pdb
+C:\Users\Yavuz\source\repos\PatikaLINQ4\PatikaLINQ4\obj\Debug\net8.0\PatikaLINQ4.dll
+C:\Users\Yavuz\source\repos\PatikaLINQ4\PatikaLINQ4\obj\Debug\net8.0\refint\PatikaLINQ4.dll
+C:\Users\Yavuz\source\repos\PatikaLINQ4\PatikaLINQ4\obj\Debug\net8.0\PatikaLINQ4.pdb
+C:\Users\Yavuz\source\repos\PatikaLINQ4\PatikaLINQ4\obj\Debug\net8.0\PatikaLINQ4.genruntimeconfig.cache
+C:\Users\Yavuz\source\repos\PatikaLINQ4\PatikaLINQ4\obj\Debug\net8.0\ref\PatikaLINQ4.dll
